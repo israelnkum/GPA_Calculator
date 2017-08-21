@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ttu_GPAcalculation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ttu_GPAcalculation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
